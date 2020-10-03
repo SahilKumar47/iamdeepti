@@ -2,7 +2,7 @@
 
 🔭 I'm a final year student at DTU pursuing Mathematics and Computing.<br/>
 🌱 Currently I'm working on my problem solving skills,<br/> and exploring python 😄<br/>
-📫 Social Media Profile Links: <a href='https://www.linkedin.com/in/deepti-singh-276b9b152/'>Linkedin</a>, <a href='https://twitter.com/ldeepsl'>Twitter</a> <br/>
+📫 Social Media Profile Links: <a href='https://www.linkedin.com/in/deepti-singh-276b9b152/'>Linkedin</a>  <br/>
 ⚡⚡⚡⚡<br/>
                                ¯\_(ツ)_/¯
 <!--
