@@ -4,6 +4,10 @@
 🌱 Currently I'm working on my problem solving skills,<br/> and exploring python 😄<br/>
 📫 Social Media Profile Links: <a href='https://www.linkedin.com/in/deepti-singh-276b9b152/'>Linkedin</a>  <br/>
 ⚡⚡⚡⚡<br/>
+![](https://komarev.com/ghpvc/?username=iamdeepti&color=green)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=iamdeepti)](https://github.com/anuraghazra/github-readme-stats)
+
                                ¯\_(ツ)_/¯
 <!--
 **iamdeepti/iamdeepti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
